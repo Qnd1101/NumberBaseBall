@@ -193,7 +193,8 @@
     
     ex ) 카운트 : 1
     
-    ![Untitled](%E1%84%89%E1%85%AE%E1%86%BA%E1%84%8C%E1%85%A1%20%E1%84%8B%E1%85%A3%E1%84%80%E1%85%AE%20%E1%84%80%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B7%207edb42890c43448f95714428c21f9687/Untitled.png)
+![image](https://github.com/Qnd1101/NumberBaseBall/assets/107795830/ecd7b68c-7703-44d7-90b2-3562a1455d68)
+
     
 - Code 해석
     
